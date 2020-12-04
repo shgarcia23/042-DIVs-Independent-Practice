@@ -1,0 +1,32 @@
+img {
+    height: 200px;
+}
+
+.header {
+    background-color: #B4FFF8;
+    padding: 10px;
+    border: solid red 15px;
+}
+
+.troy {
+    border: dotted cyan 15px;
+    padding: 15px;
+    margin: 20px;
+}
+
+.richard {
+    border: solid cyan 15px;
+    padding: 15px;
+    margin: 20px;
+}
+
+.dog {
+    border: dotted orange 15px;
+    padding: 15px;
+    margin: 20px;
+}
+
+body {
+    background-color: black;
+    color: white;
+}
